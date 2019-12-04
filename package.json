@@ -28,7 +28,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/fetch": "^6.1.54"
+		"@ctx-core/fetch": "^6.1.55"
 	},
 	"devDependencies": {
 		"typescript": "^3.7.3"
