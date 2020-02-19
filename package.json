@@ -3,7 +3,7 @@
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
-	"version": "1.1.59",
+	"version": "1.1.60",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
@@ -28,7 +28,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/fetch": "^6.1.90"
+		"@ctx-core/fetch": "^6.1.91"
 	},
 	"devDependencies": {
 		"typescript": "^3.7.5"
