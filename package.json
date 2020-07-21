@@ -32,7 +32,7 @@
 		"@ctx-core/fetch": "^6.1.153"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.6"
+		"typescript": "^3.9.7"
 	},
 	"gitHead": "88677817081026e1bc5fea08b27127e0ef126175"
 }
