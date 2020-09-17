@@ -1,39 +1,39 @@
 {
-	"name": "@ctx-core/instagram",
-	"version": "1.1.172",
-	"description": "@ctx-core instagram functions",
-	"keywords": [
-		"ctx-core",
-		"instagram"
-	],
-	"homepage": "https://github.com/ctx-core/instagram#readme",
-	"bugs": {
-		"url": "https://github.com/ctx-core/instagram/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/instagram/issues"
-	},
-	"license": "Apache-2.0",
-	"author": "Brian Takita",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
-	"scripts": {
-		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
-		"compile": "tsc -b",
-		"exec": "$@",
-		"prepublishOnly": "npm run compile"
-	},
-	"dependencies": {
-		"@ctx-core/fetch": "workspace:*"
-	},
-	"devDependencies": {
-		"typescript": "^4.0.2"
-	},
-	"publishConfig": {
-		"access": "public"
-	},
-	"gitHead": "7cfbfff26b19a1d43a022d5abfab56786ac56d06"
+  "name": "@ctx-core/instagram",
+  "version": "1.1.173",
+  "description": "@ctx-core instagram functions",
+  "keywords": [
+    "ctx-core",
+    "instagram"
+  ],
+  "homepage": "https://github.com/ctx-core/instagram#readme",
+  "bugs": {
+    "url": "https://github.com/ctx-core/instagram/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctx-core/instagram/issues"
+  },
+  "license": "Apache-2.0",
+  "author": "Brian Takita",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.ts",
+  "scripts": {
+    "build": "npm run clean && npm run compile",
+    "clean": "rm -f tsconfig.tsbuildinfo",
+    "compile": "tsc -b",
+    "exec": "$@",
+    "prepublishOnly": "npm run compile"
+  },
+  "dependencies": {
+    "@ctx-core/fetch": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "7cfbfff26b19a1d43a022d5abfab56786ac56d06"
 }
