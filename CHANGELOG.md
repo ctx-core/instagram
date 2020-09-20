@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 2.0.4
+
+### Patch Changes
+
+- fix: install issues: using explicit workspace: versioning
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@7.0.4
+
 ## 2.0.3
 
 ### Patch Changes
