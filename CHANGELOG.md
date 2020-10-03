@@ -1,5 +1,11 @@
 # @ctx-core/instagram
 
+## 2.0.53
+
+### Patch Changes
+
+- @ctx-core/fetch@7.0.53
+
 ## 2.0.52
 
 ### Patch Changes
