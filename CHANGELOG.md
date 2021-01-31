@@ -1,5 +1,16 @@
 # @ctx-core/instagram
 
+## 3.0.0
+
+### Major Changes
+
+- src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@8.0.0
+
 ## 2.0.130
 
 ### Patch Changes
