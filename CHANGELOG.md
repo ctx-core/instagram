@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 3.0.47
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@8.0.47
+
 ## 3.0.46
 
 ### Patch Changes
