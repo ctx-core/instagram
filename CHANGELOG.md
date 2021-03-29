@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 3.0.48
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@8.0.48
+
 ## 3.0.47
 
 ### Patch Changes
