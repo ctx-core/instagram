@@ -1,5 +1,16 @@
 # @ctx-core/instagram
 
+## 3.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@8.1.0
+
 ## 3.0.55
 
 ### Patch Changes
