@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 3.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@8.1.2
+
 ## 3.1.1
 
 ### Patch Changes
