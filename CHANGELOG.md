@@ -1,5 +1,16 @@
 # @ctx-core/instagram
 
+## 3.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@8.2.0
+
 ## 3.1.4
 
 ### Patch Changes
