@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 3.2.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@8.2.1
+
 ## 3.2.0
 
 ### Minor Changes
