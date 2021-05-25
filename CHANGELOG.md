@@ -1,5 +1,16 @@
 # @ctx-core/instagram
 
+## 3.3.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@8.3.0
+
 ## 3.2.1
 
 ### Patch Changes
