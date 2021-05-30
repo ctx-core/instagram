@@ -1,5 +1,18 @@
 # @ctx-core/instagram
 
+## 4.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@9.0.0
+
 ## 3.3.4
 
 ### Patch Changes
