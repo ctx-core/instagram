@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 4.0.1
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@9.0.5
+
 ## 4.0.0
 
 ### Major Changes
