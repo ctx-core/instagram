@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 4.0.2
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@9.0.6
+
 ## 4.0.1
 
 ### Patch Changes
