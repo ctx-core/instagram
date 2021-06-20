@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 5.0.8
+
+### Patch Changes
+
+- npm run prepare instead of npm run prepublishOnly
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@10.0.9
+
 ## 5.0.7
 
 ### Patch Changes
