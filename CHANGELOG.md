@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 5.0.10
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@10.0.11
+
 ## 5.0.9
 
 ### Patch Changes
