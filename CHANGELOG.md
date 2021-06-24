@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 5.0.12
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@10.0.14
+
 ## 5.0.11
 
 ### Patch Changes
