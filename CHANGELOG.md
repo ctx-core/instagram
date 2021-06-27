@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 5.0.15
+
+### Patch Changes
+
+- dist directory
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@10.0.18
+
 ## 5.0.14
 
 ### Patch Changes
