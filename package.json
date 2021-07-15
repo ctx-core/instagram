@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/instagram",
-	"version": "6.0.5",
+	"version": "6.0.6",
 	"description": "@ctx-core instagram functions",
 	"keywords": [
 		"ctx-core",
@@ -28,7 +28,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/fetch": "workspace:^11.0.4"
+		"@ctx-core/fetch": "workspace:^11.0.5"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.5"
