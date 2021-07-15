@@ -28,7 +28,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/fetch": "workspace:^11.0.3"
+		"@ctx-core/fetch": "workspace:^11.0.4"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.5"
