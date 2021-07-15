@@ -1,3 +1,3 @@
-export * from './medium_'
-export * from './fetch_medium'
-export * from './Medium'
+export * from './medium_.js'
+export * from './fetch_medium.js'
+export * from './Medium.js'
