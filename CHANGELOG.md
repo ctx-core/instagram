@@ -1,5 +1,11 @@
 # @ctx-core/instagram
 
+## 6.0.4
+
+### Patch Changes
+
+- fix: module imports;types
+
 ## 6.0.3
 
 ### Patch Changes
