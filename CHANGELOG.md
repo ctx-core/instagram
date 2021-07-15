@@ -1,5 +1,16 @@
 # @ctx-core/instagram
 
+## 6.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@11.0.0
+
 ## 5.0.32
 
 ### Patch Changes
