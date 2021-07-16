@@ -1,5 +1,21 @@
 # @ctx-core/instagram
 
+## 6.0.15
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@11.0.14
+
+## 6.0.14
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@11.0.13
+
 ## 6.0.13
 
 ### Patch Changes
