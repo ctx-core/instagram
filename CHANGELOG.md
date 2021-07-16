@@ -1,5 +1,21 @@
 # @ctx-core/instagram
 
+## 6.0.9
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@11.0.8
+
+## 6.0.8
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@11.0.7
+
 ## 6.0.7
 
 ### Patch Changes
