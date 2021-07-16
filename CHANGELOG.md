@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 6.0.12
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@11.0.11
+
 ## 6.0.11
 
 ### Patch Changes
