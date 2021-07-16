@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 6.0.7
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@11.0.6
+
 ## 6.0.6
 
 ### Patch Changes
