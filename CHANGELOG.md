@@ -1,5 +1,11 @@
 # @ctx-core/instagram
 
+## 6.0.19
+
+### Patch Changes
+
+- exports: + "package.json": "./package.json"
+
 ## 6.0.18
 
 ### Patch Changes
