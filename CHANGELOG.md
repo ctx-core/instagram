@@ -1,5 +1,11 @@
 # @ctx-core/instagram
 
+## 6.0.69
+
+### Patch Changes
+
+- update dependencies
+
 ## 6.0.68
 
 ### Patch Changes
