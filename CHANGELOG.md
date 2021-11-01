@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 6.0.76
+
+### Patch Changes
+
+- typescript: ^4.4.3 -> ^4.4.4
+- Updated dependencies [undefined]
+  - @ctx-core/fetch@11.0.77
+
 ## 6.0.75
 
 ### Patch Changes
