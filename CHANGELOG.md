@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 6.0.78
+
+### Patch Changes
+
+- compile using swc
+- Updated dependencies
+  - @ctx-core/fetch@11.0.80
+
 ## 6.0.77
 
 ### Patch Changes
