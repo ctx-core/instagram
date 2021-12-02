@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 6.0.84
+
+### Patch Changes
+
+- @swc/core: ^1.2.113 -> ^1.2.116
+- Updated dependencies
+  - @ctx-core/fetch@11.0.86
+
 ## 6.0.83
 
 ### Patch Changes
