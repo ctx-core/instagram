@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 6.0.90
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/fetch@11.0.90
+
 ## 6.0.89
 
 ### Patch Changes
