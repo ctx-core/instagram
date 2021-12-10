@@ -1,5 +1,12 @@
 # @ctx-core/instagram
 
+## 6.0.93
+
+### Patch Changes
+
+- package.json: - module
+  - @ctx-core/fetch@11.0.93
+
 ## 6.0.92
 
 ### Patch Changes
