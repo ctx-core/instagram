@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/instagram",
-	"version": "6.0.94",
+	"version": "6.0.95",
 	"description": "@ctx-core instagram functions",
 	"keywords": [
 		"ctx-core",
@@ -12,15 +12,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/instagram/issues"
+		"url": "https://github.com/ctx-core/instagram.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
 	"exports": {
 		".": {
-			"types": "./src/index.ts",
-			"import": "./dist/index.js"
+			"import": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},
@@ -32,7 +32,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/fetch": "workspace:^11.0.94"
+		"@ctx-core/fetch": "workspace:^11.0.95"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",

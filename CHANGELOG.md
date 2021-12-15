@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 6.0.95
+
+### Patch Changes
+
+- fix: package.json: exports
+- Updated dependencies
+  - @ctx-core/fetch@11.0.95
+
 ## 6.0.94
 
 ### Patch Changes
