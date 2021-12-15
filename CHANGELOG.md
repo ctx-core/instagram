@@ -1,5 +1,14 @@
 # @ctx-core/instagram
 
+## 6.0.94
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/fetch@11.0.94
+
 ## 6.0.93
 
 ### Patch Changes
