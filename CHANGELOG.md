@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 6.0.96
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/fetch@11.0.96
+
 ## 6.0.95
 
 ### Patch Changes
