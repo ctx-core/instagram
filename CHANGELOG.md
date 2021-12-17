@@ -1,5 +1,17 @@
 # @ctx-core/instagram
 
+## 6.0.98
+
+### Patch Changes
+
+- fix: build
+- Updated dependencies
+  - @ctx-core/array@23.0.38
+  - @ctx-core/dom@11.0.45
+  - @ctx-core/fetch@11.0.98
+  - @ctx-core/object@22.0.5
+  - @ctx-core/store@27.0.52
+
 ## 6.0.97
 
 ### Patch Changes
