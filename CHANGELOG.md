@@ -1,5 +1,15 @@
 # @ctx-core/instagram
 
+## 6.0.104
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/dom@11.1.2
+  - @ctx-core/fetch@11.0.104
+
 ## 6.0.103
 
 ### Patch Changes

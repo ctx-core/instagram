@@ -1,4 +1,5 @@
 import { fetch } from '@ctx-core/fetch'
-export async function fetch_medium(pathname:string):Promise<Response> {
+/** @type {import('fetch_medium').fetch_medium} */
+export const fetch_medium = async (pathname)=>{
 	return fetch(`https://api.instagram.com/oembed/?url=http://instagr.am${pathname}`)
 }
