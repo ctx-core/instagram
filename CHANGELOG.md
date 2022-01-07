@@ -1,5 +1,16 @@
 # @ctx-core/instagram
 
+## 6.0.107
+
+### Patch Changes
+
+- uvu: ^0.5.2 -> ^0.5.3
+- Updated dependencies
+  - @ctx-core/array@23.1.3
+  - @ctx-core/dom@11.1.4
+  - @ctx-core/fetch@11.0.108
+  - @ctx-core/object@22.0.11
+
 ## 6.0.106
 
 ### Patch Changes
