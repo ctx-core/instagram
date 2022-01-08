@@ -1,5 +1,16 @@
 # @ctx-core/instagram
 
+## 6.0.108
+
+### Patch Changes
+
+- sideEffects = false
+- Updated dependencies
+  - @ctx-core/array@23.1.4
+  - @ctx-core/dom@11.1.5
+  - @ctx-core/fetch@11.0.109
+  - @ctx-core/object@22.0.12
+
 ## 6.0.107
 
 ### Patch Changes
