@@ -1,5 +1,15 @@
 # @ctx-core/instagram
 
+## 6.1.3
+
+### Patch Changes
+
+- use fetch instead of safe_fetch
+- use fetch instead of safe_fetch
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/fetch-undici@1.1.0
+
 ## 6.1.2
 
 ### Patch Changes

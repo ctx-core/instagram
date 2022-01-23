@@ -1,1 +1,1 @@
-export declare function fetch_medium(pathname:string):Promise<Response>;
+export declare function fetch_medium(pathname:string):Promise<[Object, Response]>;
