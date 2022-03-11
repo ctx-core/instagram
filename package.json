@@ -37,7 +37,7 @@
 	"dependencies": {
 		"@ctx-core/array": "*",
 		"@ctx-core/dom": "^11.1.8",
-		"@ctx-core/fetch-undici": "^1.2.8",
+		"@ctx-core/fetch-undici": "^1.2.9",
 		"@ctx-core/object": "*"
 	},
 	"devDependencies": {
