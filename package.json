@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/instagram",
-	"version": "6.1.17",
+	"version": "6.1.18",
 	"description": "@ctx-core instagram functions",
 	"keywords": [
 		"ctx-core",
@@ -20,9 +20,7 @@
 	"types": "./src/index.d.ts",
 	"svelte": "./src/index.js",
 	"exports": {
-		".": {
-			"import": "./src/index.js"
-		},
+		".": "./src/index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
@@ -35,10 +33,10 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/array": "*",
-		"@ctx-core/dom": "^11.1.9",
-		"@ctx-core/fetch-undici": "^1.2.14",
-		"@ctx-core/object": "^22.1.3"
+		"@ctx-core/array": "workspace:*",
+		"@ctx-core/dom": "workspace:^11.1.10",
+		"@ctx-core/fetch-undici": "workspace:^1.2.15",
+		"@ctx-core/object": "workspace:^22.1.4"
 	},
 	"devDependencies": {
 		"c8": "^7.11.0",
