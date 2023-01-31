@@ -1,5 +1,16 @@
 # @ctx-core/instagram
 
+## 6.1.90
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/array@26.8.13
+  - @ctx-core/dom@11.2.25
+  - @ctx-core/fetch-undici@2.3.57
+  - @ctx-core/object@24.1.1
+
 ## 6.1.89
 
 ### Patch Changes
