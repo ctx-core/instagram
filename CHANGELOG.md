@@ -1,5 +1,12 @@
 # @ctx-core/instagram
 
+## 6.2.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+- medium\_\_fetch: aliased by fetch_medium
+
 ## 6.1.117
 
 ### Patch Changes

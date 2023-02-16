@@ -1,3 +1,3 @@
 export * from './_types'
-export * from './fetch_medium'
+export * from './medium__fetch'
 export * from './medium_'

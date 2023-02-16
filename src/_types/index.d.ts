@@ -1,3 +1,3 @@
 export interface Medium {
-	html:string;
+	html:string
 }
