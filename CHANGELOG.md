@@ -1,5 +1,16 @@
 # @ctx-core/instagram
 
+## 6.2.134
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/array@26.12.32
+  - @ctx-core/dom@14.1.31
+  - @ctx-core/fetch-undici@2.6.36
+  - @ctx-core/object@27.4.23
+
 ## 6.2.133
 
 ### Patch Changes
