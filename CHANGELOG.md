@@ -1,5 +1,15 @@
 # @ctx-core/instagram
 
+## 6.2.163
+
+### Patch Changes
+
+- @ctx-core/object: ^27.5.0 -> ^27.6.0
+- Updated dependencies
+  - @ctx-core/array@26.12.37
+  - @ctx-core/dom@14.1.41
+  - @ctx-core/fetch-undici@2.6.65
+
 ## 6.2.162
 
 ### Patch Changes
