@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/instagram",
-	"version": "6.2.242",
+	"version": "6.2.243",
 	"description": "@ctx-core instagram functions",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 	"dependencies": {
 		"@ctx-core/array": "^26.15.5",
 		"@ctx-core/dom": "^14.2.4",
-		"@ctx-core/fetch-undici": "^3.0.31",
+		"@ctx-core/fetch-undici": "^3.0.32",
 		"@ctx-core/object": "^28.2.1"
 	},
 	"devDependencies": {
