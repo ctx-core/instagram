@@ -1,5 +1,16 @@
 # @ctx-core/instagram
 
+## 6.3.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/array@27.0.2
+  - @ctx-core/dom@15.1.2
+  - @ctx-core/fetch-undici@3.1.2
+  - @ctx-core/object@30.1.2
+
 ## 6.3.1
 
 ### Patch Changes
