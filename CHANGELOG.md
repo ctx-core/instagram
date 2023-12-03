@@ -1,5 +1,11 @@
 # @ctx-core/instagram
 
+## 6.3.65
+
+### Patch Changes
+
+- @ctx-core/fetch-undici: ^3.1.64 -> ^3.1.65
+
 ## 6.3.64
 
 ### Patch Changes
