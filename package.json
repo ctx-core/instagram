@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/instagram",
-	"version": "6.3.114",
+	"version": "6.3.115",
 	"description": "@ctx-core instagram functions",
 	"keywords": [
 		"ctx-core",
@@ -40,8 +40,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^15.1.63",
-		"@ctx-core/fetch-undici": "^3.1.111"
+		"@ctx-core/dom": "^15.1.64",
+		"@ctx-core/fetch-undici": "^3.1.112"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
