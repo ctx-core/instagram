@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/instagram",
-	"version": "6.3.194",
+	"version": "6.3.195",
 	"description": "@ctx-core instagram functions",
 	"keywords": [
 		"ctx-core",
@@ -41,7 +41,7 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^5.36.3"
+		"ctx-core": "^5.36.4"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
