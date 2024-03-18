@@ -1,5 +1,11 @@
 # @ctx-core/instagram
 
+## 6.3.223
+
+### Patch Changes
+
+- ctx-core: ^6.5.8 -> ^6.5.9
+
 ## 6.3.222
 
 ### Patch Changes
