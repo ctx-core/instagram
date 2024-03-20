@@ -1,5 +1,13 @@
 # @ctx-core/instagram
 
+## 6.3.226
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 6.3.225
 
 ### Patch Changes
